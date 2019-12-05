@@ -1,0 +1,64 @@
+[29-Nov-2019 13:06:30 Europe/Warsaw] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/kl3ag1/public_html/appPHP/inc/db.php on line 27
+[29-Nov-2019 13:07:51 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/kl3ag1/public_html/appPHP/inc/db.php:35
+Stack trace:
+#0 /home/kl3ag1/public_html/appPHP/inc/db.php(24): Baza::db_query('SELECT name FRO...')
+#1 /home/kl3ag1/public_html/appPHP/inc/db.php(18): Baza->init_tables()
+#2 /home/kl3ag1/public_html/appPHP/index.php(15): Baza->__construct('baza/baza.db')
+#3 {main}
+  thrown in /home/kl3ag1/public_html/appPHP/inc/db.php on line 35
+[29-Nov-2019 13:08:18 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/kl3ag1/public_html/appPHP/inc/db.php:35
+Stack trace:
+#0 /home/kl3ag1/public_html/appPHP/inc/db.php(24): Baza::db_query('SELECT name FRO...')
+#1 /home/kl3ag1/public_html/appPHP/inc/db.php(18): Baza->init_tables()
+#2 /home/kl3ag1/public_html/appPHP/index.php(15): Baza->__construct('baza/baza.db')
+#3 {main}
+  thrown in /home/kl3ag1/public_html/appPHP/inc/db.php on line 35
+[29-Nov-2019 13:08:19 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/kl3ag1/public_html/appPHP/inc/db.php:35
+Stack trace:
+#0 /home/kl3ag1/public_html/appPHP/inc/db.php(24): Baza::db_query('SELECT name FRO...')
+#1 /home/kl3ag1/public_html/appPHP/inc/db.php(18): Baza->init_tables()
+#2 /home/kl3ag1/public_html/appPHP/index.php(15): Baza->__construct('baza/baza.db')
+#3 {main}
+  thrown in /home/kl3ag1/public_html/appPHP/inc/db.php on line 35
+[29-Nov-2019 13:08:19 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/kl3ag1/public_html/appPHP/inc/db.php:35
+Stack trace:
+#0 /home/kl3ag1/public_html/appPHP/inc/db.php(24): Baza::db_query('SELECT name FRO...')
+#1 /home/kl3ag1/public_html/appPHP/inc/db.php(18): Baza->init_tables()
+#2 /home/kl3ag1/public_html/appPHP/index.php(15): Baza->__construct('baza/baza.db')
+#3 {main}
+  thrown in /home/kl3ag1/public_html/appPHP/inc/db.php on line 35
+[29-Nov-2019 13:08:20 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/kl3ag1/public_html/appPHP/inc/db.php:35
+Stack trace:
+#0 /home/kl3ag1/public_html/appPHP/inc/db.php(24): Baza::db_query('SELECT name FRO...')
+#1 /home/kl3ag1/public_html/appPHP/inc/db.php(18): Baza->init_tables()
+#2 /home/kl3ag1/public_html/appPHP/index.php(15): Baza->__construct('baza/baza.db')
+#3 {main}
+  thrown in /home/kl3ag1/public_html/appPHP/inc/db.php on line 35
+[29-Nov-2019 13:08:23 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/kl3ag1/public_html/appPHP/inc/db.php:35
+Stack trace:
+#0 /home/kl3ag1/public_html/appPHP/inc/db.php(24): Baza::db_query('SELECT name FRO...')
+#1 /home/kl3ag1/public_html/appPHP/inc/db.php(18): Baza->init_tables()
+#2 /home/kl3ag1/public_html/appPHP/index.php(15): Baza->__construct('baza/baza.db')
+#3 {main}
+  thrown in /home/kl3ag1/public_html/appPHP/inc/db.php on line 35
+[29-Nov-2019 13:08:36 Europe/Warsaw] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/kl3ag1/public_html/appPHP/inc/db.php on line 35
+[29-Nov-2019 13:08:43 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Undefined class constant 'mode' in /home/kl3ag1/public_html/appPHP/inc/db.php:35
+Stack trace:
+#0 /home/kl3ag1/public_html/appPHP/inc/db.php(24): Baza::db_query('SELECT name FRO...')
+#1 /home/kl3ag1/public_html/appPHP/inc/db.php(18): Baza->init_tables()
+#2 /home/kl3ag1/public_html/appPHP/index.php(15): Baza->__construct('baza/baza.db')
+#3 {main}
+  thrown in /home/kl3ag1/public_html/appPHP/inc/db.php on line 35
+[29-Nov-2019 13:10:59 Europe/Warsaw] PHP Notice:  Accessing static property Baza::$ret as non static in /home/kl3ag1/public_html/appPHP/inc/funkcje.php on line 8
+[29-Nov-2019 13:10:59 Europe/Warsaw] PHP Notice:  Undefined property: Baza::$ret in /home/kl3ag1/public_html/appPHP/inc/funkcje.php on line 8
+[29-Nov-2019 13:10:59 Europe/Warsaw] PHP Warning:  Invalid argument supplied for foreach() in /home/kl3ag1/public_html/appPHP/inc/funkcje.php on line 8
+[29-Nov-2019 13:10:59 Europe/Warsaw] PHP Notice:  Accessing static property Baza::$kom as non static in /home/kl3ag1/public_html/appPHP/inc/template.php on line 32
+[29-Nov-2019 13:10:59 Europe/Warsaw] PHP Notice:  Undefined property: Baza::$kom in /home/kl3ag1/public_html/appPHP/inc/template.php on line 32
+[29-Nov-2019 13:10:59 Europe/Warsaw] PHP Warning:  Invalid argument supplied for foreach() in /home/kl3ag1/public_html/appPHP/inc/funkcje.php on line 4
+[29-Nov-2019 13:15:00 Europe/Warsaw] PHP Warning:  include(404.html): failed to open stream: Nie ma takiego pliku ani katalogu in /home/kl3ag1/public_html/appPHP/inc/funkcje.php on line 36
+[29-Nov-2019 13:15:00 Europe/Warsaw] PHP Warning:  include(): Failed opening '404.html' for inclusion (include_path='.:/usr/share/php') in /home/kl3ag1/public_html/appPHP/inc/funkcje.php on line 36
+[29-Nov-2019 13:15:26 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Call to undefined function get_page_content() in /home/kl3ag1/public_html/appPHP/inc/template.php:35
+Stack trace:
+#0 /home/kl3ag1/public_html/appPHP/index.php(24): include_once()
+#1 {main}
+  thrown in /home/kl3ag1/public_html/appPHP/inc/template.php on line 35
