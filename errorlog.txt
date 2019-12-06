@@ -62,3 +62,23 @@ Stack trace:
 #0 /home/kl3ag1/public_html/appPHP/index.php(24): include_once()
 #1 {main}
   thrown in /home/kl3ag1/public_html/appPHP/inc/template.php on line 35
+[06-Dec-2019 13:04:00 Europe/Warsaw] PHP Warning:  session_start(): open(/var/lib/php/sessions/sess_pc13kec28iui2nl10ahabk8t37, O_RDWR) failed: Brak dostępu (13) in /home/kl3ag1/public_html/appPHP/inc/users.php on line 8
+[06-Dec-2019 13:04:00 Europe/Warsaw] PHP Warning:  session_start(): Failed to read session data: files (path: /var/lib/php/sessions) in /home/kl3ag1/public_html/appPHP/inc/users.php on line 8
+[06-Dec-2019 13:04:04 Europe/Warsaw] PHP Warning:  session_start(): open(/var/lib/php/sessions/sess_pc13kec28iui2nl10ahabk8t37, O_RDWR) failed: Brak dostępu (13) in /home/kl3ag1/public_html/appPHP/inc/users.php on line 8
+[06-Dec-2019 13:04:04 Europe/Warsaw] PHP Warning:  session_start(): Failed to read session data: files (path: /var/lib/php/sessions) in /home/kl3ag1/public_html/appPHP/inc/users.php on line 8
+[06-Dec-2019 13:04:45 Europe/Warsaw] PHP Warning:  session_start(): open(/var/lib/php/sessions/sess_pc13kec28iui2nl10ahabk8t37, O_RDWR) failed: Brak dostępu (13) in /home/kl3ag1/public_html/appPHP/inc/users.php on line 8
+[06-Dec-2019 13:04:45 Europe/Warsaw] PHP Warning:  session_start(): Failed to read session data: files (path: /var/lib/php/sessions) in /home/kl3ag1/public_html/appPHP/inc/users.php on line 8
+[06-Dec-2019 13:04:46 Europe/Warsaw] PHP Warning:  session_start(): open(/var/lib/php/sessions/sess_pc13kec28iui2nl10ahabk8t37, O_RDWR) failed: Brak dostępu (13) in /home/kl3ag1/public_html/appPHP/inc/users.php on line 8
+[06-Dec-2019 13:04:46 Europe/Warsaw] PHP Warning:  session_start(): Failed to read session data: files (path: /var/lib/php/sessions) in /home/kl3ag1/public_html/appPHP/inc/users.php on line 8
+[06-Dec-2019 13:04:48 Europe/Warsaw] PHP Warning:  session_start(): open(/var/lib/php/sessions/sess_pc13kec28iui2nl10ahabk8t37, O_RDWR) failed: Brak dostępu (13) in /home/kl3ag1/public_html/appPHP/inc/users.php on line 8
+[06-Dec-2019 13:04:48 Europe/Warsaw] PHP Warning:  session_start(): Failed to read session data: files (path: /var/lib/php/sessions) in /home/kl3ag1/public_html/appPHP/inc/users.php on line 8
+[06-Dec-2019 13:04:49 Europe/Warsaw] PHP Warning:  session_start(): open(/var/lib/php/sessions/sess_pc13kec28iui2nl10ahabk8t37, O_RDWR) failed: Brak dostępu (13) in /home/kl3ag1/public_html/appPHP/inc/users.php on line 8
+[06-Dec-2019 13:04:49 Europe/Warsaw] PHP Warning:  session_start(): Failed to read session data: files (path: /var/lib/php/sessions) in /home/kl3ag1/public_html/appPHP/inc/users.php on line 8
+[06-Dec-2019 13:05:10 Europe/Warsaw] PHP Warning:  session_start(): open(/var/lib/php/sessions/sess_pc13kec28iui2nl10ahabk8t37, O_RDWR) failed: Brak dostępu (13) in /home/kl3ag1/public_html/appPHP/inc/users.php on line 8
+[06-Dec-2019 13:05:10 Europe/Warsaw] PHP Warning:  session_start(): Failed to read session data: files (path: /var/lib/php/sessions) in /home/kl3ag1/public_html/appPHP/inc/users.php on line 8
+[06-Dec-2019 13:05:12 Europe/Warsaw] PHP Warning:  session_start(): open(/var/lib/php/sessions/sess_pc13kec28iui2nl10ahabk8t37, O_RDWR) failed: Brak dostępu (13) in /home/kl3ag1/public_html/appPHP/inc/users.php on line 8
+[06-Dec-2019 13:05:12 Europe/Warsaw] PHP Warning:  session_start(): Failed to read session data: files (path: /var/lib/php/sessions) in /home/kl3ag1/public_html/appPHP/inc/users.php on line 8
+[06-Dec-2019 13:06:06 Europe/Warsaw] PHP Warning:  session_start(): open(sesje/sess_pc13kec28iui2nl10ahabk8t37, O_RDWR) failed: Nie ma takiego pliku ani katalogu (2) in /home/kl3ag1/public_html/appPHP/inc/users.php on line 9
+[06-Dec-2019 13:06:06 Europe/Warsaw] PHP Warning:  session_start(): Failed to read session data: files (path: sesje) in /home/kl3ag1/public_html/appPHP/inc/users.php on line 9
+[06-Dec-2019 13:20:29 Europe/Warsaw] PHP Warning:  session_start(): open(/var/lib/php/sessions/sess_pc13kec28iui2nl10ahabk8t37, O_RDWR) failed: Brak dostępu (13) in /home/kl3ag1/public_html/appPHP/inc/users.php on line 8
+[06-Dec-2019 13:20:29 Europe/Warsaw] PHP Warning:  session_start(): Failed to read session data: files (path: /var/lib/php/sessions) in /home/kl3ag1/public_html/appPHP/inc/users.php on line 8

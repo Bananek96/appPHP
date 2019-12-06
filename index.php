@@ -23,6 +23,6 @@ else
 
 $strona = array();
 
-include_once('inc/template.php');
+require_once('inc/template.php');
 
 ?>

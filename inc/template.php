@@ -20,7 +20,7 @@
                 <li class="nav-item">
                     <a class="nav-link" href="http://lo1.sandomierz.pl/plany/ostatni/index.html">Plan lekcji</a>
                 </li>
-                <?php get_menu($db, $id, $strona); ?>
+                <?php get_menu($id, $strona); ?>
             </ul>
         </div>
     </nav>
@@ -29,11 +29,10 @@
         <div class="row">
            <div class="col">
             <h1><?php get_page_title($strona); ?></h1>
-<?php
-    get_page_content($strona);
-    get_kom(Baza::$kom);
-    get_kom($kom);
-?>
+            <?php
+            get_page_content($strona);
+            get_kom(Baza::$kom);
+            ?>
             </div>
         </div>
     </div>

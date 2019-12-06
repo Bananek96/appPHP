@@ -7,8 +7,10 @@ CREATE TABLE menu(
 );
 
 INSERT INTO menu VALUES(NULL, 'Strona Główna', 'glowna.html', 1);
-INSERT INTO menu VALUES(NULL, 'Użytkownicy', 'userform.html', 2);
-INSERT INTO menu VALUES(NULL, 'Wiadomości', 'Wiadomości.html', 3);
+INSERT INTO menu VALUES(NULL, 'Wiadomości', 'Wiadomości.html', 2);
+INSERT INTO menu VALUES(NULL, 'Rejestracja', 'userform.html', 3);
+INSERT INTO menu VALUES(NULL, 'Logowanie', 'userlogin.html', 4);
+
 
 
 DROP TABLE IF EXISTS users;
@@ -17,7 +19,7 @@ CREATE TABLE users(
     login CHAR(20),
     haslo CHAR(40),
     email VARCHAR(50),
-    data DATE
+    data DATE DEFAULT CURRENT_TIMESTAMP
 );
 
 DROP TABLE IF EXISTS posty;
